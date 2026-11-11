@@ -11,11 +11,18 @@ Ik moet alleen nog nadenken over de tekst, en wat ik precies wil vertellen, maar
 
 Ik heb ook nog oefeningen gedaan voordat ik begon met mijn digital garden.
 
-#### Oefening 1
+#### Oefening 1 Font aanpassing
 
 Ik had hier best wat moeite mee aangezien alles wat was weg gevallen. Ik heb het eerst zelf geprobeerd, en daarna ben ik gaan kijken hoe het wel moest. Ik heb hier wel van geleerd!
 
 ![alt text](<Vscode oefening.png>)
+
+#### Oefening 2 Diner Game
+
+Ik heb een dining game gespeeld om alvast wat code te oefenen.
+In het begin merkte ik dat ik te moeilijk na dacht (ik was veel meer code aan het toevoegen dan nodig), uiteindelijk is het me gelukt, en ben ik tot lvl 17 gekomen.
+
+![alt text](<Het begin.png>) ![alt text](<Lvl17 last child pseudo selector.png>)
 
 ## Ma-09-11-2026
 
