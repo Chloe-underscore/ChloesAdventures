@@ -11,7 +11,7 @@ Ik moet alleen nog nadenken over de tekst, en wat ik precies wil vertellen, maar
 
 Ik heb ook nog oefeningen gedaan voordat ik begon met mijn digital garden.
 
-** Oefening 1 **
+**Oefening 1**
 ![alt text](<Vscode oefening.png>)
 
 ## Ma-09-11-2026
