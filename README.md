@@ -37,3 +37,9 @@ Ik heb voor mijn eigen naam gekozen om het simpel te houden, zodat ik het niet v
 ### Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden.
 
 Ik heb de titel aangepast. Ik heb dit gedaan door in de scource control aan te geven welke veranderingen ik heb gemaakt, en heb die toen ge commit. Daarna heb ik op Sync changes geklikt. Ik kan via mijn github bekijken of de veranderingen ook zijn toegepast.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark-mode-image.png">
+  <source media="(prefers-color-scheme: light)" srcset="light-mode-image.png">
+  <img alt="Fallback image description" src="default-image.png">
+</picture>
