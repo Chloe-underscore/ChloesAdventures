@@ -9,6 +9,11 @@ Ik heb ervoor gekozen om het over tekenen te hebben, omdat dat mijn passie is, e
 
 Ik moet alleen nog nadenken over de tekst, en wat ik precies wil vertellen, maar ik heb wel al een basis neergezet om het voor mezelf wat makkelijker te maken.
 
+Ik heb ook nog oefeningen gedaan voordat ik begon met mijn digital garden.
+
+** Oefening 1 **
+![alt text](<Vscode oefening.png>)
+
 ## Ma-09-11-2026
 
 ### Leg uit wat een source hosting platform is en voor welke jij gekozen hebt.
