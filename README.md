@@ -1,8 +1,25 @@
 # Learning log
 
+## Wo-11-11-2026
+
+### Praktische CSS les1
+
+### Fonts en lettertype Les1
+
+Ik heb voor de eerste les van fonts en lettertype 2 oefeningen gedaan.
+Deze oefeningen waren fijn om te doen, omdat ik wat nieuws heb geleerd, en ik snap nu beter wat ik aan het doen ben.
+
+#### Oefening 1
+
+Hier zijn we verder gaan werken aan de begin pagina.
+We hebben hiervoor ook uitleg gekregen over de code
+![alt text](OefeningCSSLes1.png) ![alt text](OefeningCSSLes1_InfoInvullen02.png)
+
+#### Oefening 2
+
 ## Di-10-11-2026
 
-### Voorbereiding Praktische Css Les
+### Voorbereiding Praktische CSS Les
 
 Ik heb voor de volgende les al een basis gemaakt voor mijn digital garden.
 Ik heb ervoor gekozen om het over tekenen te hebben, omdat dat mijn passie is, en als ik dit voor mijn portfolio wil gebruiken dan heb ik ook al gelijk resultaten die ik kan laten zien voor als ik iets met tekenen in het werk veld wil doen.
@@ -37,9 +54,3 @@ Ik heb voor mijn eigen naam gekozen om het simpel te houden, zodat ik het niet v
 ### Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden.
 
 Ik heb de titel aangepast. Ik heb dit gedaan door in de scource control aan te geven welke veranderingen ik heb gemaakt, en heb die toen ge commit. Daarna heb ik op Sync changes geklikt. Ik kan via mijn github bekijken of de veranderingen ook zijn toegepast.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark-mode-image.png">
-  <source media="(prefers-color-scheme: light)" srcset="light-mode-image.png">
-  <img alt="Fallback image description" src="default-image.png">
-</picture>
