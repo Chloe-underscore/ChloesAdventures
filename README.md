@@ -2,7 +2,7 @@
 
 ## Di-10-11-2026
 
-## Voorbereiding Praktische Css Les
+### Voorbereiding Praktische Css Les
 
 Ik heb voor de volgende les al een basis gemaakt voor mijn digital garden.
 Ik heb ervoor gekozen om het over tekenen te hebben, omdat dat mijn passie is, en als ik dit voor mijn portfolio wil gebruiken dan heb ik ook al gelijk resultaten die ik kan laten zien voor als ik iets met tekenen in het werk veld wil doen.
@@ -11,7 +11,7 @@ Ik moet alleen nog nadenken over de tekst, en wat ik precies wil vertellen, maar
 
 Ik heb ook nog oefeningen gedaan voordat ik begon met mijn digital garden.
 
-### Oefening 1
+#### Oefening 1
 
 ![alt text](<Vscode oefening.png>)
 
