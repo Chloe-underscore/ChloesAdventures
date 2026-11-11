@@ -12,7 +12,9 @@ Deze oefeningen waren fijn om te doen, omdat ik wat nieuws heb geleerd, en ik sn
 #### Oefening 1
 
 Hier zijn we verder gaan werken aan de begin pagina.
-We hebben hiervoor ook uitleg gekregen over de code
+We hebben hiervoor ook uitleg gekregen over de code. Ik vond dat wel fijn, omdat veel was weg gevallen. Ik weet nu ook beter waarvoor sommige dingen zijn, zoals de
+(button, summary cursor: pointer)
+
 ![alt text](OefeningCSSLes1.png) ![alt text](OefeningCSSLes1_InfoInvullen02.png)
 
 #### Oefening 2
