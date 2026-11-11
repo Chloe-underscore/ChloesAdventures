@@ -1,5 +1,14 @@
 # Learning log
 
+## Di-10-11-2026
+
+## Voorbereiding Praktische Css Les
+
+Ik heb voor de volgende les al een basis gemaakt voor mijn digital garden.
+Ik heb ervoor gekozen om het over tekenen te hebben, omdat dat mijn passie is, en als ik dit voor mijn portfolio wil gebruiken dan heb ik ook al gelijk resultaten die ik kan laten zien voor als ik iets met tekenen in het werk veld wil doen.
+
+Ik moet alleen nog nadenken over de tekst, en wat ik precies wil vertellen, maar ik heb wel al een basis neergezet om het voor mezelf wat makkelijker te maken.
+
 ## Ma-09-11-2026
 
 ### Leg uit wat een source hosting platform is en voor welke jij gekozen hebt.
