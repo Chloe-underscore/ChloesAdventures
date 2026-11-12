@@ -32,12 +32,14 @@ Het is uiteindelijk gelukt. Ik kwam er achter (door het op te zoeken) dat de 0.1
 
 **before:**
 
-Dit was voordat ik realiseerde waar mijn fout zat. (te veel blur, verkeerde volgorde, en onjuiste posities)\_
+Dit was voordat ik realiseerde waar mijn fout zat. (te veel blur, verkeerde volgorde, en onjuiste posities)
+
 ![alt text](<Oefening 3_CMYK_FoutCode_01.png>)
 
 **After:**
 
-Dit is toen ik wist wat ik aan het doen was, en hoe ik mijn fout kon oplossen. Ik heb ook gelijk de zelfde achtergrond kleur gevonden.\_
+Dit is toen ik wist wat ik aan het doen was, en hoe ik mijn fout kon oplossen. Ik heb ook gelijk de zelfde achtergrond kleur gevonden.
+
 ![alt text](<Oefening 3_CMYK_VerbeterdeCode.png>)
 
 Ik wilde ook nog de MYST font proberen, omdat ik dacht dat die wat makkelijker zou zijn.
