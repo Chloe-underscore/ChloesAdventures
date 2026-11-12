@@ -4,19 +4,17 @@
 
 ### Praktische CSS les1
 
-### Fonts en lettertype Les1
-
-Ik heb voor de eerste les van fonts en lettertype 2 oefeningen gedaan.
-Deze oefeningen waren fijn om te doen, omdat ik wat nieuws heb geleerd, en ik snap nu beter wat ik aan het doen ben.
-
-#### Oefening 1
-
 Hier zijn we verder gaan werken aan de begin pagina.
 We hebben hiervoor ook uitleg gekregen over de code. Ik vond dat wel fijn, omdat veel was weg gevallen. Ik weet nu ook beter waarvoor sommige dingen zijn, zoals de
 (button, summary cursor: pointer)
 Ik wil hier graag nieuwe code kunnen leren, zodat ik mijn uiteindelijke digital garden kan verbeteren ten opzichten van mijn vorige projecten. Na de les had ik ook al veel meer kennis dan daarvoor.
 
 ![alt text](OefeningCSSLes1.png) ![alt text](OefeningCSSLes1_InfoInvullen02.png)
+
+### Fonts en lettertype Les1
+
+Ik heb voor de eerste les van fonts en lettertype 2 oefeningen gedaan.
+Deze oefeningen waren fijn om te doen, omdat ik wat nieuws heb geleerd, en ik snap nu beter wat ik aan het doen ben.
 
 #### Oefening 2
 
@@ -33,11 +31,13 @@ Ik merkte dat ik er in het begin wel moeite mee had, omdat we steeds minder code
 Het is uiteindelijk gelukt. Ik kwam er achter (door het op te zoeken) dat de 0.1em 0.1em 0.1em voor rechts, onder, en blur stond, en toen hoefde ik alleen nog de juiste groote, en de juiste volgorde toe te passen. Ik wilde echt proberen om dit zelf op te lossen, dus als ik iets ging opzoeken wilde ik ervoor zorgen dat ik niet gelijk het antwoord wist, of gewoon de code kon kopieëren, en plakken.
 
 **before:**
-_Dit was voordat ik realiseerde waar mijn fout zat. (te veel blur, verkeerde volgorde, en onjuiste posities)_
+
+Dit was voordat ik realiseerde waar mijn fout zat. (te veel blur, verkeerde volgorde, en onjuiste posities)\_
 ![alt text](<Oefening 3_CMYK_FoutCode_01.png>)
 
 **After:**
-_Dit is toen ik wist wat ik aan het doen was, en hoe ik mijn fout kon oplossen. Ik heb ook gelijk de zelfde achtergrond kleur gevonden._
+
+Dit is toen ik wist wat ik aan het doen was, en hoe ik mijn fout kon oplossen. Ik heb ook gelijk de zelfde achtergrond kleur gevonden.\_
 ![alt text](<Oefening 3_CMYK_VerbeterdeCode.png>)
 
 Ik wilde ook nog de MYST font proberen, omdat ik dacht dat die wat makkelijker zou zijn.
@@ -45,7 +45,7 @@ Het is me tot nu toe niet helemaal gelukt, maar ik denk dat als ik verder blijf 
 
 **Het resultaat tot nu toe:**
 
-Het lettertype komt nog niet helemaal overeen met de afbeelding die ik wil na maken\_
+_Het lettertype komt nog niet helemaal overeen met de afbeelding die ik wil na maken_
 
 ![alt text](<Oefening 3_MYST_FoutCode_01.png>)
 
