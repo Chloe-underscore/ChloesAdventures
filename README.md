@@ -27,17 +27,27 @@ Ik had het meest moeite met het juiste formaat vinden, (bijv: font-size: 3em) ma
 
 #### Oefening 3
 
-Voor deze oefening konden we zelf een font na maken. Ik vond de CMYK vond wel leuk, en de MYST wilde ik er later ook nog bij doen. Ik dacht dat de CMYK font wat lastiger zou zijn, en de MYST iets makkelijker.
-Ik merkte dat ik er in het begin wel moeite mee had voornamelijk, omdat we steeds minder code als hulp middel kregen. Ik heb ook gekeken naar mijn vorige code om te kijken of ik nog wat mis.
-De CMYK code is me uiteindelijk gelukt. Ik kwam er achter (door het op te zoeken) dat de 0.1em 0.1em 0.1em voor rechts, onder, en blur stond, en toen hoefde ik alleen nog de juiste groote, en de juiste volgorde toe te passen. Ik wilde echt proberen om dit zelf op te lossen, dus als ik iets ging opzoeken wilde ik ervoor zorgen dat ik niet gelijk het antwoord wist, of gewoon de code kon kopieëren, en plakken.
+Voor deze oefening konden we zelf een font na maken. Ik vond de CMYK vond wel leuk.
+Ik merkte dat ik er in het begin wel moeite mee had, omdat we steeds minder code als hulp middel kregen, en steeds meer zelf moesten doen. Ik heb ook gekeken naar mijn vorige code om te kijken of ik nog wat mis.
 
-**before**
-_Dit was voordat ik mijn fout realiseerde. (te veel blur, verkeerde volgorde, en onjuiste posities)_
+Het is uiteindelijk gelukt. Ik kwam er achter (door het op te zoeken) dat de 0.1em 0.1em 0.1em voor rechts, onder, en blur stond, en toen hoefde ik alleen nog de juiste groote, en de juiste volgorde toe te passen. Ik wilde echt proberen om dit zelf op te lossen, dus als ik iets ging opzoeken wilde ik ervoor zorgen dat ik niet gelijk het antwoord wist, of gewoon de code kon kopieëren, en plakken.
+
+**before:**
+_Dit was voordat ik realiseerde waar mijn fout zat. (te veel blur, verkeerde volgorde, en onjuiste posities)_
 ![alt text](<Oefening 3_CMYK_FoutCode_01.png>)
 
-**After**
+**After:**
 _Dit is toen ik wist wat ik aan het doen was, en hoe ik mijn fout kon oplossen. Ik heb ook gelijk de zelfde achtergrond kleur gevonden._
 ![alt text](<Oefening 3_CMYK_VerbeterdeCode.png>)
+
+Ik wilde ook nog de MYST font proberen, omdat ik dacht dat die wat makkelijker zou zijn.
+Het is me tot nu toe niet helemaal gelukt, maar ik denk dat als ik verder blijf zoeken, ik er uiteindelijk wel uit kom.
+
+**Het resultaat tot nu toe:**
+
+Het lettertype komt nog niet helemaal overeen met de afbeelding die ik wil na maken\_
+
+![alt text](<Oefening 3_MYST_FoutCode_01.png>)
 
 ## Di-10-11-2026
 
