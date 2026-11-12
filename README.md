@@ -1,5 +1,7 @@
 # Learning log
 
+## Do-12-11-2026
+
 ## Wo-11-11-2026
 
 ### Praktische CSS les1
@@ -32,13 +34,13 @@ Het is uiteindelijk gelukt. Ik kwam er achter (door het op te zoeken) dat de 0.1
 
 **before:**
 
-Dit was voordat ik realiseerde waar mijn fout zat. (te veel blur, verkeerde volgorde, en onjuiste posities)
+_Dit was voordat ik realiseerde waar mijn fout zat. (te veel blur, verkeerde volgorde, en onjuiste posities)_
 
 ![alt text](<Oefening 3_CMYK_FoutCode_01.png>)
 
 **After:**
 
-Dit is toen ik wist wat ik aan het doen was, en hoe ik mijn fout kon oplossen. Ik heb ook gelijk de zelfde achtergrond kleur gevonden.
+_Dit is toen ik wist wat ik aan het doen was, en hoe ik mijn fout kon oplossen. Ik heb ook gelijk de zelfde achtergrond kleur gevonden._
 
 ![alt text](<Oefening 3_CMYK_VerbeterdeCode.png>)
 
