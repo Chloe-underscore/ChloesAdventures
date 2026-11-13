@@ -2,6 +2,8 @@
 
 ## Vr-13-11-2026
 
+### Css fonts en lettertype
+
 Ik ben verder gaan werken aan de vorige opdracht (lettertype fonts)
 Ik heb toen de 2e lettertype MYST geprobeerd na te maken.
 Het was me gelukt om de schaduw na te maken, maar ik bleef vast lopen bij het lettertype.
@@ -26,6 +28,8 @@ Ik heb als laatst de groote van beide lettertype vergroot naar 4rem om ze nog be
 ![alt text](<Oefening 3_MYST_UiteindelijkResultaat_04emGrootter.png>)
 
 ## Do-12-11-2026
+
+### Wok to walk
 
 Ik heb als voorbereiding voor de volgende les alvast wat schetsen gemaakt voor wok to walk.
 Ik ben eerst een kleine moodboard gaan maken om inspiratie te krijgen voor de website.
