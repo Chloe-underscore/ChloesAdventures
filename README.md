@@ -8,6 +8,7 @@ Ik heb in de les oefeningen gekregen over hoe we konden schetsen, en hoe we een 
 Ik hou zelf ook al van tekenen, dus ik vond dit wel een leuke opdracht. Ondanks dat ik al wat kennis heb van tekenen heb ik wel het gevoel dat ik wat nieuws heb geleerd, dat me toch kan helpen om een betere visalusatie over te brengen naar andere.
 
 **Beoordeling/Feedback**
+
 Hier gingen we elkaars werk beoordelen. We keken naar welke we het best, middelmatig, en minst goed vonden.
 Mijn feedback die ik heb gekregen van Pasha, Palmedie, en Medea:
 De schetsen zien er goed uit, maar de schets van de bal is het meest duidelijk, omdat je niet hoeft te lezen. De andere is te veel tekst. De accent kleur is leuk, en het voelt finnished. De schets met potlood voelt ook echt als een schets.
@@ -16,26 +17,31 @@ Ze hadden verschillende meningen over welke het best, en minst was, maar ik vond
 [Foto's toevoegen]
 
 **1ste oefening**
+
 We begonnen met lijnen tekenen over een A3 het doel was om zo recht mogelijk, en gelijk van elkaar af te tekenen. Ik heb dit ooit al eerder gedaan voor mezelf, maar niet op een A3. Ik vond dit wel handig om weer te doen, omdat het me toch uitdaagde om recht en netjes te tekenen. Ik focusde meer op de oefening, en niet zo zeer op perfectie, omdat de kans dat ik dan schuin teken veel groter is.
 
 ![alt text](<Schets 1 Lijnen.jpeg>)
 
 **2e oefening**
+
 Hier moesten we vierkanten tekenen op een A3. Ik vond dit ook wel leuk, omdat ik het gevoel had dat het een extentie is van de lijnen tekenen. Ik heb het gevoel dat ik opnieuw weer kon beginnen met teken oefeningen, en gelijk ook kon zien of ik ben verbeterd.
 
 ![alt text](<Schets 2 vierkanten.jpeg>)
 
 **3e oefening**
+
 Nu moesten we proberen om een telefoon zo goed mogelijk na te maken. Dit leek makkelijk, maar inschatten is ook een vermogen die ik tot nu toe niet echt bezit. Mijn telefoon schetsen waren of te klein, breed, of te lang. Het gaat gelukkig om het ongeveer, en ik
 
 ![alt text](<Schets 3 telefoon.jpeg>)
 
 **4e oefening**
+
 We mochten een app kiezen die we zelf vaak gebruiken, en daar een Mi-Fi schets van maken, met alle kennis die we hebben gekregen van de vorige oefeningen.
 
 ![alt text](<Schets 4 Mi-Fi.jpeg>)
 
 **5e oefening**
+
 We hebben als laatst een animatie schets gemaakt.
 We zijn gaan kijken naar de schetsen die we hadden gemaakt voor Wok to Walk, en zijn gaan kijken naar wat voor animaties we konden toevoegen.
 
