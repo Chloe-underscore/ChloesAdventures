@@ -1,6 +1,56 @@
 # Learning log
 
+## Vr-13-11-2026
+
+Ik ben verder gaan werken aan de vorige opdracht (lettertype fonts)
+Ik heb toen de 2e lettertype MYST geprobeerd na te maken.
+Het was me gelukt om de schaduw na te maken, maar ik bleef vast lopen bij het lettertype.
+Ik kreeg niet het juiste lettertype te zien, als op het voorbeeld. Ik heb eerst geprobeerd dit zelf te fixen, maar uiteindelijk heb ik copilot gevraagd wat er precies niet klopte, en waarom ik mijn font niet kon zien.
+
+**Before**
+
+Hier had ik moeite met het vinden van de fout in mijn code. Ik heb meerdere aanpassingen gedaan. met haakjes toe te voegen, lettertype groote, groter maken, stijl aanpassen naar oblique, en Uppercase veranderen naar capitalize. Dit werkte allemaal niet.
+![alt text](<Oefening 3_MYST_FoutCode_01-1.png>)
+
+**After**
+
+Hier heb ik aan copilot gevraagd waarom het lettertype niet werkte.
+Hij zei dat het kwam, omdat ik vroeg om blackHanSans.Regulat.tt, maar ik had alleen BlackHan nodig.
+Dit heb ik aangepast, en toen werkte het inderdaad wel.
+
+![alt text](<Oefening 3_MYST_CopilotVerbetering.png>)
+
+**Eind resultaat**
+Ik heb als laatst de groote van beide lettertype vergroot naar 4rem om ze nog beter zichtbaar te maken. Dit is het uiteindelijke resultaat.
+
+![alt text](<Oefening 3_MYST_UiteindelijkResultaat_04emGrootter.png>)
+
 ## Do-12-11-2026
+
+Ik heb als voorbereiding voor de volgende les alvast wat schetsen gemaakt voor wok to walk.
+Ik ben eerst een kleine moodboard gaan maken om inspiratie te krijgen voor de website.
+Ik heb 3 schetsen op papier gemaakt.
+
+**Moodboard**
+
+Ik ben voor de moodboard gaan kijken naar andere bestellings website's om te kijken hoe hun, hun website hebben vorm gegeven.
+
+![alt text](Moodboard_AndereWebsites.png)
+
+**Schets1**
+
+Voor schets 1 ben ik vooral gaan nadenken over wat voor elementen ik wilde verwerken.
+![alt text](Schets_01.jpeg)
+
+**Schets2**
+
+Voor de 2e schets ben ik gaan experimenteren met een layout begin.
+![alt text](Schets_02.jpeg)
+
+**Schets3**
+
+Voor de 3e schets heb ik nog een alternatief bedacht van hoe ik de website zo kort mogelijk kon houden, zodat mensen niet te ver hoeven te scrollen.
+![alt text](Schets_03.jpeg)
 
 ## Wo-11-11-2026
 
