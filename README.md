@@ -7,7 +7,7 @@
 Ik heb in de les oefeningen gekregen over hoe we konden schetsen, en hoe we een Lo-fi Mi-fi, en Hi-Fi kunnen schetsen.
 Ik hou zelf ook al van tekenen, dus ik vond dit wel een leuke opdracht. Ondanks dat ik al wat kennis heb van tekenen heb ik wel het gevoel dat ik wat nieuws heb geleerd, dat me toch kan helpen om een betere visalusatie over te brengen naar andere.
 
-**Beoordeling/Feedback**
+#### Beoordeling/Feedback
 
 Hier gingen we elkaars werk beoordelen. We keken naar welke we het best, middelmatig, en minst goed vonden.
 Ze hadden verschillende meningen over welke het best, en minst was, maar ik vond de feedback als nog fijn. Ik weet nu beter wat ik kan toepassen voor Lo,Mi,Hi-Fi schetsen, en waar ik rekening mee moet houden als ik een verhaal/schets duidelijk wil overbrengen.
