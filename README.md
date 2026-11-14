@@ -10,11 +10,25 @@ Ik hou zelf ook al van tekenen, dus ik vond dit wel een leuke opdracht. Ondanks 
 **Beoordeling/Feedback**
 
 Hier gingen we elkaars werk beoordelen. We keken naar welke we het best, middelmatig, en minst goed vonden.
-Mijn feedback die ik heb gekregen van Pasha, Palmedie, en Medea:
-De schetsen zien er goed uit, maar de schets van de bal is het meest duidelijk, omdat je niet hoeft te lezen. De andere is te veel tekst. De accent kleur is leuk, en het voelt finnished. De schets met potlood voelt ook echt als een schets.
-Ze hadden verschillende meningen over welke het best, en minst was, maar ik vond de feedback als nog fijn. Ik weet nu beter wat ik kan toepassen voor Lo,Mi,Hi-Fi schetsen.
+Ze hadden verschillende meningen over welke het best, en minst was, maar ik vond de feedback als nog fijn. Ik weet nu beter wat ik kan toepassen voor Lo,Mi,Hi-Fi schetsen, en waar ik rekening mee moet houden als ik een verhaal/schets duidelijk wil overbrengen.
 
-[Foto's toevoegen]
+#### Mijn feedback die ik heb gekregen van Pasha, Palmedie, en Medea:
+
+De Ar storyboard vond Pasha goed, omdat het heel erg leek op een schets
+Palmedie, en Medea vonden deze minder, omdat er te veel details in voorkwamen, en te veel tekst was.
+Het was niet gelijk duidelijk na het scannen.
+
+![alt text](<Ar storyboard beoordeling.jpeg>)
+
+Palemdie vond deze goed, omdat het als een finnished schets over kwam. Het had ook 1 duidelijke accent kleur waardoor ze wist waar ze op moest focussen.
+Medea, en Pasha vonden deze minder omdat er te veel tekst in voor kwam, en het was in 1 oog opslag niet gelijk duidelijk.
+![alt text](Laadpagina_beoordeling.jpeg)
+
+Medea vond deze heel goed, omdat er niet te veel tekst was, en je kan gelijk aan de plaatjes zien wat er gebeurt.
+![alt text](<Zwaartekracht bal beoordeling.jpeg>)
+
+Deze vonden ze alle 3 minder. Het was niet in 1 keer duidelijk wat er gebeurde, waardoor het minder scanbaar was.
+![alt text](<Zwaartekracht room storyboard beoordeling.jpeg>)
 
 **1ste oefening**
 
@@ -24,19 +38,21 @@ We begonnen met lijnen tekenen over een A3 het doel was om zo recht mogelijk, en
 
 **2e oefening**
 
-Hier moesten we vierkanten tekenen op een A3. Ik vond dit ook wel leuk, omdat ik het gevoel had dat het een extentie is van de lijnen tekenen. Ik heb het gevoel dat ik opnieuw weer kon beginnen met teken oefeningen, en gelijk ook kon zien of ik ben verbeterd.
+Hier moesten we vierkanten tekenen op een A3. Ik vond dit ook wel leuk, omdat ik het gevoel had dat het een extentie is van de lijnen tekenen. Ik wilde vooral proberen om zo snel mogelijk te schetsen, zodat het niet veel tijd in beslag neemt, maar het nog wel goed te doen. Dit doen ze ook voor gestureDrawing. Ik merk dat als ik sneller, maar goed leer schetsen ik ook betere keuzes moet maken, en van te voren moet nadenken wat ik over wil brengen. Ik denk dat dit me kan helpen voor me toekomstige schetsen.
 
 ![alt text](<Schets 2 vierkanten.jpeg>)
 
 **3e oefening**
 
-Nu moesten we proberen om een telefoon zo goed mogelijk na te maken. Dit leek makkelijk, maar inschatten is ook een vermogen die ik tot nu toe niet echt bezit. Mijn telefoon schetsen waren of te klein, breed, of te lang. Het gaat gelukkig om het ongeveer, en ik
+Nu moesten we proberen om een telefoon zo goed mogelijk na te maken. Dit leek makkelijk, maar inschatten is ook een vermogen die ik tot nu toe niet echt bezit. Mijn telefoon schetsen waren of te klein, breed, of te lang. Het gaat gelukkig om het ongeveer, en door de vorige oefening kan ik al makkelijker vormen schetsen.
 
 ![alt text](<Schets 3 telefoon.jpeg>)
 
 **4e oefening**
 
-We mochten een app kiezen die we zelf vaak gebruiken, en daar een Mi-Fi schets van maken, met alle kennis die we hebben gekregen van de vorige oefeningen.
+We mochten een app kiezen die we zelf vaak gebruiken, en daar een Mi-Fi schets van maken, met alle kennis die we hebben gekregen van de vorige oefeningen. Ik heb gekozen voor Youtube. De oefening ging best goed. Ik had voor mijn foute gewoon een groen post it note erover heen geplakt zodat ik niet opniew hoef te beginnen.
+
+Ik merk dat na alle oefeningen die we hebben gedaan ik een beter inzicht heb gekregen van schetsen, en ook een andere manier ervan. Ik teken normaal mensen en dat is veel meer intuitie, en flow. Ik kon nu vooral vormen gebruiken om een schetmatische schets te maken.
 
 ![alt text](<Schets 4 Mi-Fi.jpeg>)
 
@@ -47,7 +63,7 @@ We zijn gaan kijken naar de schetsen die we hadden gemaakt voor Wok to Walk, en 
 
 Ik heb voor een popup animatie gekozen.
 Als je een basis kiest (inplaats van helemaal door te moeten scrollen) krijg je een popup te zien, met de volgende keuze (toppings). Ik heb geprobeerd dit op papier te laten zien.
-Het bedenken, en de actie in me hoofd zien ging wel, maar het op papier vertalen vond ik wel een stuk lastiger, daarom denk ik ook dat de schets wat beter kon.
+Het bedenken, en de actie in me hoofd zien ging wel, maar het op papier vertalen vond ik wel een stuk lastiger, daarom denk ik ook dat de schets wat beter kon. Ik denk daarom ook dat dit een goede oefening was om te doen. Ik hoop dat ik hierin kan verbeteren voor later.
 
 ![alt text](<Schets 5 Animatie .jpeg>)
 
@@ -93,17 +109,19 @@ Ik ben voor de moodboard gaan kijken naar andere bestellings website's om te kij
 
 **Schets1**
 
-Voor schets 1 ben ik vooral gaan nadenken over wat voor elementen ik wilde verwerken.
+Voor schets 1 ben ik vooral gaan nadenken over wat voor elementen ik wilde verwerken. Ik heb op pintrest ontwerp vormen opgezocht, en die nagetekent om te kijken wat ik een leuk idee vind om te gebruiken voor het menu.
 ![alt text](Schets_01.jpeg)
 
 **Schets2**
 
-Voor de 2e schets ben ik gaan experimenteren met een layout begin.
+Voor de 2e schets ben ik gaan experimenteren met een layout begin. Ik ging kijken of ik al een begin kon maken met de inspiratie van de moodboard, en pintrest schetsen.
+Ik heb uiteindelijk gekozen om plaatjes toe te voegen, en zo min mogelijk tekst, zodat je het menu gewoon kan scannen.
 ![alt text](Schets_02.jpeg)
 
 **Schets3**
 
-Voor de 3e schets heb ik nog een alternatief bedacht van hoe ik de website zo kort mogelijk kon houden, zodat mensen niet te ver hoeven te scrollen.
+Ik vond de vorige schets wel wat lang. Ik heb voor de 3e schets nog een alternatief bedacht van hoe ik de website zo kort mogelijk kon houden, zodat mensen niet te ver hoeven te scrollen.
+Ik heb uiteindelijk een popup menu bedacht. Als je klikt op een basis (stap 1) dan krijg je automatisch een popup te zien waarin je verder kan kiezen. Hierdoor hoef je niet te scrollen. Het is ook iets dat andere websites gebruiken, dus voor de gebruiker zal dit bekend zijn.
 ![alt text](Schets_03.jpeg)
 
 ## Wo-11-11-2026
