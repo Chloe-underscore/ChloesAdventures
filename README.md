@@ -22,12 +22,15 @@ Het was niet gelijk duidelijk na het scannen.
 
 Palemdie vond deze goed, omdat het als een finnished schets over kwam. Het had ook 1 duidelijke accent kleur waardoor ze wist waar ze op moest focussen.
 Medea, en Pasha vonden deze minder omdat er te veel tekst in voor kwam, en het was in 1 oog opslag niet gelijk duidelijk.
+
 ![alt text](Laadpagina_beoordeling.jpeg)
 
 Medea vond deze heel goed, omdat er niet te veel tekst was, en je kan gelijk aan de plaatjes zien wat er gebeurt.
+
 ![alt text](<Zwaartekracht bal beoordeling.jpeg>)
 
 Deze vonden ze alle 3 minder. Het was niet in 1 keer duidelijk wat er gebeurde, waardoor het minder scanbaar was.
+
 ![alt text](<Zwaartekracht room storyboard beoordeling.jpeg>)
 
 **1ste oefening**
