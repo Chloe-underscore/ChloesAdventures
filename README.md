@@ -2,6 +2,8 @@
 
 ## Za-14-11-2026
 
+### Transitie lettertype
+
 Ik heb een transitie gemaakt van beide lettertype die ik heb nagemaakt.
 Voor de CMYK heb ik gekozen voor een simpele rotatie, en een scale vergroting.
 Voor de MIST wilde ik proberen om de letters verder uit elkaar te halen, en de tekst te laten gloeien.
