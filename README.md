@@ -1,5 +1,36 @@
 # Learning log
 
+## Za-14-11-2026
+
+Ik heb een transitie gemaakt van beide lettertype die ik heb nagemaakt.
+Voor de CMYK heb ik gekozen voor een simpele rotatie, en een scale vergroting.
+Voor de MIST wilde ik proberen om de letters verder uit elkaar te halen, en de tekst te laten gloeien.
+Ik heb het simpel gehouden, omdat ik graag iets wilde properen wat ik zelf kan om later de moeilijkheid te verhogen voor de digital garden. Hierdoor kan ik altijd terug kijken naar mijn vorige code als hulp middel.
+
+Ik vind dat het best goed gelukt is. Het liefst zou ik de tekst voor de blokjes houden, maar ik weet nog niet hoe dat werkt, dus misschien dat ik daar later nog achter kom.
+
+**GIF**
+
+Dit is het resultaat van de transitie. De video is een beetje choppy vergeleken met het live beeld, maar het idee is er.
+
+![alt text](Transition_Lettertype_CMYK_MIST_01.gif)
+
+**Code CMYK**
+
+Ik heb een eas in toegevoegd, zodat het niet te snel gaat.
+Ik heb ook een stukje van mijn andere code gebruikt (0.1em), zodat de kleuren mee gaan bij de hover.
+De rotate staat op 1080 deg, zodat het meerdere keren draait.
+Het eind resultaat geeft een leuke game vibe effect.
+
+![alt text](Transition_Code_CMYK_01.png)
+
+**Code MIST**
+
+Ik heb gekozen om de kleur te veranderen, en een schaduw die een gloei effect geeft (met de 1em code, en color code).
+Ik wilde ook de letters van elkaar halen (letter-spacing 2em). Ik heb gekeken of ik de tekst meer in beeld kon houden met (text-align left), maar ik weet niet zeker of dat wel echt wat doet.
+
+![alt text](Transition_Code_MIST_01-1.png)
+
 ## Vr-13-11-2026
 
 ### Schets les
