@@ -4,112 +4,141 @@
 
 ### Transitie lettertype
 
-Ik heb een transitie gemaakt van beide lettertype die ik heb nagemaakt.
+In de vorige les kregen we als uitdaging om een transitie toe te voegen. Ik heb verschillende transities gemaakt om mezelf uit te dagen. Ik wilde kijken hoeveel ik zelf kon doen, en hoeveel ik nog wist, zodat ik later de moeilijkheidsgraad omhoog kan zetten, en mezelf nog meer kan uitdagen.
+
+**GIF**
+
+_Dit is het resultaat van de transitie. De video is een beetje choppy vergeleken met het live beeld, maar het idee is er. transitie's die ik gedaan heb (rotation, letter spacing, en scale)_
+
+![alt text](Transition_Lettertype_CMYK_MIST_01.gif)
+
+<!-- Ik heb een transitie gemaakt van beide lettertype die ik heb nagemaakt.
 Voor de CMYK heb ik gekozen voor een simpele rotatie, en een scale vergroting.
 Voor de MIST wilde ik proberen om de letters verder uit elkaar te halen, en de tekst te laten gloeien.
 Ik heb het simpel gehouden, omdat ik graag iets wilde properen wat ik zelf kan om later de moeilijkheid te verhogen voor de digital garden. Hierdoor kan ik altijd terug kijken naar mijn vorige code als hulp middel.
 
-Ik vind dat het best goed gelukt is. Het liefst zou ik de tekst voor de blokjes houden, maar ik weet nog niet hoe dat werkt, dus misschien dat ik daar later nog achter kom.
+Ik vind dat het best goed gelukt is. Het liefst zou ik de tekst voor de blokjes houden, maar ik weet nog niet hoe dat werkt, dus misschien dat ik daar later nog achter kom. -->
 
-**GIF**
+<!-- **GIF**
 
 Dit is het resultaat van de transitie. De video is een beetje choppy vergeleken met het live beeld, maar het idee is er.
 
-![alt text](Transition_Lettertype_CMYK_MIST_01.gif)
+![alt text](Transition_Lettertype_CMYK_MIST_01.gif) -->
 
-**Code CMYK**
-
+<!-- **Code CMYK**
 Ik heb een eas in toegevoegd, zodat het niet te snel gaat.
 Ik heb ook een stukje van mijn andere code gebruikt (0.1em), zodat de kleuren mee gaan bij de hover.
 De rotate staat op 1080 deg, zodat het meerdere keren draait.
 Het eind resultaat geeft een leuke game vibe effect.
 
-![alt text](Transition_Code_CMYK_01.png)
+![alt text](Transition_Code_CMYK_01.png) -->
 
-**Code MIST**
+<!-- **Code MIST**
 
 Ik heb gekozen om de kleur te veranderen, en een schaduw die een gloei effect geeft (met de 1em code, en color code).
 Ik wilde ook de letters van elkaar halen (letter-spacing 2em). Ik heb gekeken of ik de tekst meer in beeld kon houden met (text-align left), maar ik weet niet zeker of dat wel echt wat doet.
 
-![alt text](Transition_Code_MIST_01-1.png)
+![alt text](Transition_Code_MIST_01-1.png) -->
 
 ## Vr-13-11-2026
-
-### Schets les
-
-Ik heb in de les oefeningen gekregen over hoe we konden schetsen, en hoe we een Lo-fi Mi-fi, en Hi-Fi kunnen schetsen.
-Ik hou zelf ook al van tekenen, dus ik vond dit wel een leuke opdracht. Ondanks dat ik al wat kennis heb van tekenen heb ik wel het gevoel dat ik wat nieuws heb geleerd, dat me toch kan helpen om een betere visalusatie over te brengen naar andere.
 
 #### Beoordeling/Feedback
 
 Hier gingen we elkaars werk beoordelen. We keken naar welke we het best, middelmatig, en minst goed vonden.
 Ze hadden verschillende meningen over welke het best, en minst was, maar ik vond de feedback als nog fijn. Ik weet nu beter wat ik kan toepassen voor Lo,Mi,Hi-Fi schetsen, en waar ik rekening mee moet houden als ik een verhaal/schets duidelijk wil overbrengen.
 
-#### Mijn feedback die ik heb gekregen van Pasha, Palmedie, en Medea:
+![alt text](<Ar storyboard beoordeling.jpeg>)
+![alt text](Laadpagina_beoordeling.jpeg)
+![alt text](<Zwaartekracht bal beoordeling.jpeg>)
+![alt text](<Zwaartekracht room storyboard beoordeling.jpeg>)
+
+<!-- #### Mijn feedback die ik heb gekregen van Pasha, Palmedie, en Medea:
 
 De Ar storyboard vond Pasha goed, omdat het heel erg leek op een schets
 Palmedie, en Medea vonden deze minder, omdat er te veel details in voorkwamen, en te veel tekst was.
-Het was niet gelijk duidelijk na het scannen.
+Het was niet gelijk duidelijk na het scannen. -->
 
-![alt text](<Ar storyboard beoordeling.jpeg>)
+<!-- ![alt text](<Ar storyboard beoordeling.jpeg>) -->
 
-Palemdie vond deze goed, omdat het als een finnished schets over kwam. Het had ook 1 duidelijke accent kleur waardoor ze wist waar ze op moest focussen.
-Medea, en Pasha vonden deze minder omdat er te veel tekst in voor kwam, en het was in 1 oog opslag niet gelijk duidelijk.
+<!-- Palemdie vond deze goed, omdat het als een finnished schets over kwam. Het had ook 1 duidelijke accent kleur waardoor ze wist waar ze op moest focussen.
+Medea, en Pasha vonden deze minder omdat er te veel tekst in voor kwam, en het was in 1 oog opslag niet gelijk duidelijk. -->
 
-![alt text](Laadpagina_beoordeling.jpeg)
+<!-- ![alt text](Laadpagina_beoordeling.jpeg) -->
 
-Medea vond deze heel goed, omdat er niet te veel tekst was, en je kan gelijk aan de plaatjes zien wat er gebeurt.
+<!-- Medea vond deze heel goed, omdat er niet te veel tekst was, en je kan gelijk aan de plaatjes zien wat er gebeurt. -->
 
-![alt text](<Zwaartekracht bal beoordeling.jpeg>)
+<!-- ![alt text](<Zwaartekracht bal beoordeling.jpeg>) -->
 
-Deze vonden ze alle 3 minder. Het was niet in 1 keer duidelijk wat er gebeurde, waardoor het minder scanbaar was.
+<!-- Deze vonden ze alle 3 minder. Het was niet in 1 keer duidelijk wat er gebeurde, waardoor het minder scanbaar was. -->
 
-![alt text](<Zwaartekracht room storyboard beoordeling.jpeg>)
+<!-- ![alt text](<Zwaartekracht room storyboard beoordeling.jpeg>) -->
 
-**1ste oefening**
+### Oefening opdrachten
 
-We begonnen met lijnen tekenen over een A3 het doel was om zo recht mogelijk, en gelijk van elkaar af te tekenen. Ik heb dit ooit al eerder gedaan voor mezelf, maar niet op een A3. Ik vond dit wel handig om weer te doen, omdat het me toch uitdaagde om recht en netjes te tekenen. Ik focusde meer op de oefening, en niet zo zeer op perfectie, omdat de kans dat ik dan schuin teken veel groter is.
+We hebben schets lessen gekregen, en uiteindelijk moesten we daar een mi-fi schets uit maken, en een animatie schets proberen te maken.
 
-![alt text](<Schets 1 Lijnen.jpeg>)
-
-**2e oefening**
-
-Hier moesten we vierkanten tekenen op een A3. Ik vond dit ook wel leuk, omdat ik het gevoel had dat het een extentie is van de lijnen tekenen. Ik wilde vooral proberen om zo snel mogelijk te schetsen, zodat het niet veel tijd in beslag neemt, maar het nog wel goed te doen. Dit doen ze ook voor gestureDrawing. Ik merk dat als ik sneller, maar goed leer schetsen ik ook betere keuzes moet maken, en van te voren moet nadenken wat ik over wil brengen. Ik denk dat dit me kan helpen voor me toekomstige schetsen.
-
-![alt text](<Schets 2 vierkanten.jpeg>)
-
-**3e oefening**
-
-Nu moesten we proberen om een telefoon zo goed mogelijk na te maken. Dit leek makkelijk, maar inschatten is ook een vermogen die ik tot nu toe niet echt bezit. Mijn telefoon schetsen waren of te klein, breed, of te lang. Het gaat gelukkig om het ongeveer, en door de vorige oefening kan ik al makkelijker vormen schetsen.
-
-![alt text](<Schets 3 telefoon.jpeg>)
-
-**4e oefening**
-
-We mochten een app kiezen die we zelf vaak gebruiken, en daar een Mi-Fi schets van maken, met alle kennis die we hebben gekregen van de vorige oefeningen. Ik heb gekozen voor Youtube. De oefening ging best goed. Ik had voor mijn foute gewoon een groen post it note erover heen geplakt zodat ik niet opniew hoef te beginnen.
-
-Ik merk dat na alle oefeningen die we hebben gedaan ik een beter inzicht heb gekregen van schetsen, en ook een andere manier ervan. Ik teken normaal mensen en dat is veel meer intuitie, en flow. Ik kon nu vooral vormen gebruiken om een schetmatische schets te maken.
+_Ik had hier een Mi-Fi schets gemaakt, van youtube. Ik maakte per ongeluk een fout, en heb toen met een groene post it me fout weg gehaald. Ik merk hieraan dat ik al wat creatiever word in oplossingen vinden._
 
 ![alt text](<Schets 4 Mi-Fi.jpeg>)
 
-**5e oefening**
+_Ik had gekozen om een popup na te schetsen, maar ik vond het toch nog wel lastig om visueel uit te tekenen_
+
+![alt text](<Schets 5 Animatie .jpeg>)
+
+<!-- **1ste oefening**
+
+We begonnen met lijnen tekenen over een A3 het doel was om zo recht mogelijk, en gelijk van elkaar af te tekenen. Ik heb dit ooit al eerder gedaan voor mezelf, maar niet op een A3. Ik vond dit wel handig om weer te doen, omdat het me toch uitdaagde om recht en netjes te tekenen. Ik focusde meer op de oefening, en niet zo zeer op perfectie, omdat de kans dat ik dan schuin teken veel groter is.
+
+![alt text](<Schets 1 Lijnen.jpeg>) -->
+
+<!-- **2e oefening**
+
+Hier moesten we vierkanten tekenen op een A3. Ik vond dit ook wel leuk, omdat ik het gevoel had dat het een extentie is van de lijnen tekenen. Ik wilde vooral proberen om zo snel mogelijk te schetsen, zodat het niet veel tijd in beslag neemt, maar het nog wel goed te doen. Dit doen ze ook voor gestureDrawing. Ik merk dat als ik sneller, maar goed leer schetsen ik ook betere keuzes moet maken, en van te voren moet nadenken wat ik over wil brengen. Ik denk dat dit me kan helpen voor me toekomstige schetsen.
+
+![alt text](<Schets 2 vierkanten.jpeg>) -->
+
+<!-- **3e oefening**
+
+Nu moesten we proberen om een telefoon zo goed mogelijk na te maken. Dit leek makkelijk, maar inschatten is ook een vermogen die ik tot nu toe niet echt bezit. Mijn telefoon schetsen waren of te klein, breed, of te lang. Het gaat gelukkig om het ongeveer, en door de vorige oefening kan ik al makkelijker vormen schetsen. -->
+
+<!-- ![alt text](<Schets 3 telefoon.jpeg>) -->
+
+<!-- **4e oefening**
+
+We mochten een app kiezen die we zelf vaak gebruiken, en daar een Mi-Fi schets van maken, met alle kennis die we hebben gekregen van de vorige oefeningen. Ik heb gekozen voor Youtube. De oefening ging best goed. Ik had voor mijn foute gewoon een groen post it note erover heen geplakt zodat ik niet opniew hoef te beginnen.
+
+Ik merk dat na alle oefeningen die we hebben gedaan ik een beter inzicht heb gekregen van schetsen, en ook een andere manier ervan. Ik teken normaal mensen en dat is veel meer intuitie, en flow. Ik kon nu vooral vormen gebruiken om een schetmatische schets te maken. -->
+
+<!-- ![alt text](<Schets 4 Mi-Fi.jpeg>) -->
+
+<!-- **5e oefening**
 
 We hebben als laatst een animatie schets gemaakt.
 We zijn gaan kijken naar de schetsen die we hadden gemaakt voor Wok to Walk, en zijn gaan kijken naar wat voor animaties we konden toevoegen.
 
 Ik heb voor een popup animatie gekozen.
 Als je een basis kiest (inplaats van helemaal door te moeten scrollen) krijg je een popup te zien, met de volgende keuze (toppings). Ik heb geprobeerd dit op papier te laten zien.
-Het bedenken, en de actie in me hoofd zien ging wel, maar het op papier vertalen vond ik wel een stuk lastiger, daarom denk ik ook dat de schets wat beter kon. Ik denk daarom ook dat dit een goede oefening was om te doen. Ik hoop dat ik hierin kan verbeteren voor later.
-
-![alt text](<Schets 5 Animatie .jpeg>)
+Het bedenken, en de actie in me hoofd zien ging wel, maar het op papier vertalen vond ik wel een stuk lastiger, daarom denk ik ook dat de schets wat beter kon. Ik denk daarom ook dat dit een goede oefening was om te doen. Ik hoop dat ik hierin kan verbeteren voor later. -->
+<!--
+![alt text](<Schets 5 Animatie .jpeg>) -->
 
 ### Css fonts en lettertype
 
-Ik ben verder gaan werken aan de vorige opdracht (lettertype fonts)
+Ik was gaan werken aan de vorige opdracht om het lettertype kloppend te maken. Ik heb het uiteindelijk gevraagd aan copilot, en toen kwam ik erachter dat ik regular had toegevoegd, terwijl dat niet nodig was.
+
+_copilot gevraagd_
+
+![alt text](<Oefening 3_MYST_CopilotVerbetering.png>)
+
+_Uiteindelijk resultaat_
+
+![alt text](<Oefening 3_MYST_UiteindelijkResultaat_04emGrootter.png>)
+
+<!-- Ik ben verder gaan werken aan de vorige opdracht (lettertype fonts)
 Ik heb toen de 2e lettertype MYST geprobeerd na te maken.
 Het was me gelukt om de schaduw na te maken, maar ik bleef vast lopen bij het lettertype.
-Ik kreeg niet het juiste lettertype te zien, als op het voorbeeld. Ik heb eerst geprobeerd dit zelf te fixen, maar uiteindelijk heb ik copilot gevraagd wat er precies niet klopte, en waarom ik mijn font niet kon zien.
-
+Ik kreeg niet het juiste lettertype te zien, als op het voorbeeld. Ik heb eerst geprobeerd dit zelf te fixen, maar uiteindelijk heb ik copilot gevraagd wat er precies niet klopte, en waarom ik mijn font niet kon zien. -->
+<!--
 **Before**
 
 Hier had ik moeite met het vinden van de fout in mijn code. Ik heb meerdere aanpassingen gedaan. met haakjes toe te voegen, lettertype groote, groter maken, stijl aanpassen naar oblique, en Uppercase veranderen naar capitalize. Dit werkte allemaal niet.
@@ -127,65 +156,65 @@ Dit heb ik aangepast, en toen werkte het inderdaad wel.
 **Eind resultaat**
 Ik heb als laatst de groote van beide lettertype vergroot naar 4rem om ze nog beter zichtbaar te maken. Dit is het uiteindelijke resultaat.
 
-![alt text](<Oefening 3_MYST_UiteindelijkResultaat_04emGrootter.png>)
+![alt text](<Oefening 3_MYST_UiteindelijkResultaat_04emGrootter.png>) -->
 
 ## Do-12-11-2026
 
 ### Wok to walk
 
-Ik heb als voorbereiding voor de volgende les alvast wat schetsen gemaakt voor wok to walk.
-Ik ben eerst een kleine moodboard gaan maken om inspiratie te krijgen voor de website.
-Ik heb 3 schetsen op papier gemaakt.
+Ik heb als voorbereiding voor de volgende les alvast wat schetsen gemaakt voor wok to walk. Ik heb geprobeerd het zo kort mogelijk te houden, zodat mensen niet te veel hoeven te scrollen, en het menu gewoon kunnen scannen.
 
-**Moodboard**
+! [alt text](Schets_03.jpeg)
+
+<!-- **Moodboard**
 
 Ik ben voor de moodboard gaan kijken naar andere bestellings website's om te kijken hoe hun, hun website hebben vorm gegeven.
 
-![alt text](Moodboard_AndereWebsites.png)
+![alt text](Moodboard_AndereWebsites.png) -->
 
-**Schets1**
+<!-- **Schets1** -->
 
-Voor schets 1 ben ik vooral gaan nadenken over wat voor elementen ik wilde verwerken. Ik heb op pintrest ontwerp vormen opgezocht, en die nagetekent om te kijken wat ik een leuk idee vind om te gebruiken voor het menu.
-![alt text](Schets_01.jpeg)
+<!-- Voor schets 1 ben ik vooral gaan nadenken over wat voor elementen ik wilde verwerken. Ik heb op pintrest ontwerp vormen opgezocht, en die nagetekent om te kijken wat ik een leuk idee vind om te gebruiken voor het menu. -->
+<!-- ![alt text](Schets_01.jpeg) -->
 
-**Schets2**
+<!-- **Schets2** -->
 
-Voor de 2e schets ben ik gaan experimenteren met een layout begin. Ik ging kijken of ik al een begin kon maken met de inspiratie van de moodboard, en pintrest schetsen.
-Ik heb uiteindelijk gekozen om plaatjes toe te voegen, en zo min mogelijk tekst, zodat je het menu gewoon kan scannen.
-![alt text](Schets_02.jpeg)
+<!-- Voor de 2e schets ben ik gaan experimenteren met een layout begin. Ik ging kijken of ik al een begin kon maken met de inspiratie van de moodboard, en pintrest schetsen.
+Ik heb uiteindelijk gekozen om plaatjes toe te voegen, en zo min mogelijk tekst, zodat je het menu gewoon kan scannen. -->
+<!-- ![alt text](Schets_02.jpeg) -->
 
-**Schets3**
+<!-- **Schets3**
 
 Ik vond de vorige schets wel wat lang. Ik heb voor de 3e schets nog een alternatief bedacht van hoe ik de website zo kort mogelijk kon houden, zodat mensen niet te ver hoeven te scrollen.
-Ik heb uiteindelijk een popup menu bedacht. Als je klikt op een basis (stap 1) dan krijg je automatisch een popup te zien waarin je verder kan kiezen. Hierdoor hoef je niet te scrollen. Het is ook iets dat andere websites gebruiken, dus voor de gebruiker zal dit bekend zijn.
-![alt text](Schets_03.jpeg)
+Ik heb uiteindelijk een popup menu bedacht. Als je klikt op een basis (stap 1) dan krijg je automatisch een popup te zien waarin je verder kan kiezen. Hierdoor hoef je niet te scrollen. Het is ook iets dat andere websites gebruiken, dus voor de gebruiker zal dit bekend zijn. -->
+<!-- ![alt text](Schets_03.jpeg) -->
 
 ## Wo-11-11-2026
 
 ### Praktische CSS les1
 
-Hier zijn we verder gaan werken aan de begin pagina.
+In de les zijn we verder gaan werken aan de begin pagina.
 We hebben hiervoor ook uitleg gekregen over de code. Ik vond dat wel fijn, omdat veel was weg gevallen. Ik weet nu ook beter waarvoor sommige dingen zijn, zoals de
 (button, summary cursor: pointer)
 Ik wil hier graag nieuwe code kunnen leren, zodat ik mijn uiteindelijke digital garden kan verbeteren ten opzichten van mijn vorige projecten. Na de les had ik ook al veel meer kennis dan daarvoor.
 
 ![alt text](OefeningCSSLes1.png) ![alt text](OefeningCSSLes1_InfoInvullen02.png)
 
-### Fonts en lettertype Les1
+<!-- ### Fonts en lettertype Les1
 
 Ik heb voor de eerste les van fonts en lettertype 2 oefeningen gedaan.
-Deze oefeningen waren fijn om te doen, omdat ik wat nieuws heb geleerd, en ik snap nu beter wat ik aan het doen ben.
+Deze oefeningen waren fijn om te doen, omdat ik wat nieuws heb geleerd, en ik snap nu beter wat ik aan het doen ben. -->
 
-#### Oefening 2
+<!-- #### Oefening 2
 
 Voor deze oefening moest ik code na maken. Ik vond dit wel een fijne oefening, want ik kon kijken naar wat ik al wel wist, en wat nog niet. Ik heb uiteindelijk wel gekeken bij het voorbeeld. Ik zag daardoor ook dat ik op de goede richting zat, maar net wat kleine dingetjes vergeten was.
-Ik had het meest moeite met het juiste formaat vinden, (bijv: font-size: 3em) maar later ging dit wel beter.
+Ik had het meest moeite met het juiste formaat vinden, (bijv: font-size: 3em) maar later ging dit wel beter. -->
 
-![alt text](Oefening1_2_VsCode_PlaatjesErBij.png)
+<!-- ![alt text](Oefening1_2_VsCode_PlaatjesErBij.png) -->
 
-#### Oefening 3
+#### Fonts en lettertype
 
-Voor deze oefening konden we zelf een font na maken. Ik vond de CMYK vond wel leuk.
+In de les moesten we fonts na maken. De eerste oefeningen hadden we voorbeeld code van, en de laatste oefening moesten we zelf de code ervoor schrijven.
 Ik merkte dat ik er in het begin wel moeite mee had, omdat we steeds minder code als hulp middel kregen, en steeds meer zelf moesten doen. Ik heb ook gekeken naar mijn vorige code om te kijken of ik nog wat mis.
 
 Het is uiteindelijk gelukt. Ik kwam er achter (door het op te zoeken) dat de 0.1em 0.1em 0.1em voor rechts, onder, en blur stond, en toen hoefde ik alleen nog de juiste groote, en de juiste volgorde toe te passen. Ik wilde echt proberen om dit zelf op te lossen, dus als ik iets ging opzoeken wilde ik ervoor zorgen dat ik niet gelijk het antwoord wist, of gewoon de code kon kopieëren, en plakken.
@@ -202,38 +231,42 @@ _Dit is toen ik wist wat ik aan het doen was, en hoe ik mijn fout kon oplossen. 
 
 ![alt text](<Oefening 3_CMYK_VerbeterdeCode.png>)
 
-Ik wilde ook nog de MYST font proberen, omdat ik dacht dat die wat makkelijker zou zijn.
+<!-- Ik wilde ook nog de MYST font proberen, omdat ik dacht dat die wat makkelijker zou zijn.
 Het is me tot nu toe niet helemaal gelukt, maar ik denk dat als ik verder blijf zoeken, ik er uiteindelijk wel uit kom.
 
 **Het resultaat tot nu toe:**
 
 _Het lettertype komt nog niet helemaal overeen met de afbeelding die ik wil na maken_
 
-![alt text](<Oefening 3_MYST_FoutCode_01.png>)
+![alt text](<Oefening 3_MYST_FoutCode_01.png>) -->
 
 ## Di-10-11-2026
 
 ### Voorbereiding Praktische CSS Les
 
-Ik heb voor de volgende les al een basis gemaakt voor mijn digital garden.
+We hebben in de les basis oefeningen gedaan. Ik weet hierdoor al een beetje hoe ik fonts kan aanpassen, en hoe ik een basis html pagina kan maken. Dit was wel fijn, omdat ik weer even kon oefenen wat ik in het eerste jaar heb geleerd, maar dat even was weg gevallen.
+
+! [alt text](<Vscode oefening.png>)
+
+<!-- Ik heb voor de volgende les al een basis gemaakt voor mijn digital garden.
 Ik heb ervoor gekozen om het over tekenen te hebben, omdat dat mijn passie is, en als ik dit voor mijn portfolio wil gebruiken dan heb ik ook al gelijk resultaten die ik kan laten zien voor als ik iets met tekenen in het werk veld wil doen.
 
 Ik moet alleen nog nadenken over de tekst, en wat ik precies wil vertellen, maar ik heb wel al een basis neergezet om het voor mezelf wat makkelijker te maken.
 
-Ik heb ook nog oefeningen gedaan voordat ik begon met mijn digital garden.
+Ik heb ook nog oefeningen gedaan voordat ik begon met mijn digital garden. -->
 
-#### Oefening 1 Font aanpassing
-
+<!-- #### Oefening 1 Font aanpassing -->
+<!--
 Ik had hier best wat moeite mee aangezien alles wat was weg gevallen. Ik heb het eerst zelf geprobeerd, en daarna ben ik gaan kijken hoe het wel moest. Ik heb hier wel van geleerd!
 
 ![alt text](<Vscode oefening.png>)
 
-#### Oefening 2 Diner Game
+<!-- #### Oefening 2 Diner Game -->
 
-Ik heb een dining game gespeeld om alvast wat code te oefenen.
+<!-- Ik heb een dining game gespeeld om alvast wat code te oefenen.
 In het begin merkte ik dat ik te moeilijk na dacht (ik was veel meer code aan het toevoegen dan nodig), uiteindelijk is het me gelukt, en ben ik tot lvl 17 gekomen.
 
-![alt text](<Het begin.png>) ![alt text](<Lvl17 last child pseudo selector.png>)
+![alt text](<Het begin.png>) ![alt text](<Lvl17 last child pseudo selector.png>) --> -->
 
 ## Ma-09-11-2026
 
