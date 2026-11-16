@@ -124,7 +124,7 @@ Het bedenken, en de actie in me hoofd zien ging wel, maar het op papier vertalen
 
 ### Css fonts en lettertype
 
-Ik was gaan werken aan de vorige opdracht om het lettertype kloppend te maken. Ik heb het uiteindelijk gevraagd aan copilot, en toen kwam ik erachter dat ik regular had toegevoegd, terwijl dat niet nodig was.
+Ik was gaan werken aan de vorige opdracht om het lettertype kloppend te maken (hier had ik moeite mee). Ik heb het uiteindelijk gevraagd aan copilot, en toen kwam ik erachter dat ik regular had toegevoegd, terwijl dat niet nodig was. Voor de rest lukte de opdracht me best goed, en daar ben ik wel blij mee.
 
 _copilot gevraagd_
 
@@ -164,7 +164,7 @@ Ik heb als laatst de groote van beide lettertype vergroot naar 4rem om ze nog be
 
 Ik heb als voorbereiding voor de volgende les alvast wat schetsen gemaakt voor wok to walk. Ik heb geprobeerd het zo kort mogelijk te houden, zodat mensen niet te veel hoeven te scrollen, en het menu gewoon kunnen scannen.
 
-! [alt text](Schets_03.jpeg)
+![alt text](Schets_03.jpeg)
 
 <!-- **Moodboard**
 
@@ -198,7 +198,9 @@ We hebben hiervoor ook uitleg gekregen over de code. Ik vond dat wel fijn, omdat
 (button, summary cursor: pointer)
 Ik wil hier graag nieuwe code kunnen leren, zodat ik mijn uiteindelijke digital garden kan verbeteren ten opzichten van mijn vorige projecten. Na de les had ik ook al veel meer kennis dan daarvoor.
 
-![alt text](OefeningCSSLes1.png) ![alt text](OefeningCSSLes1_InfoInvullen02.png)
+![alt text](OefeningCSSLes1.png)
+
+ <!-- ![alt text](OefeningCSSLes1_InfoInvullen02.png) -->
 
 <!-- ### Fonts en lettertype Les1
 
@@ -246,7 +248,7 @@ _Het lettertype komt nog niet helemaal overeen met de afbeelding die ik wil na m
 
 We hebben in de les basis oefeningen gedaan. Ik weet hierdoor al een beetje hoe ik fonts kan aanpassen, en hoe ik een basis html pagina kan maken. Dit was wel fijn, omdat ik weer even kon oefenen wat ik in het eerste jaar heb geleerd, maar dat even was weg gevallen.
 
-! [alt text](<Vscode oefening.png>)
+![alt text](<Vscode oefening.png>)
 
 <!-- Ik heb voor de volgende les al een basis gemaakt voor mijn digital garden.
 Ik heb ervoor gekozen om het over tekenen te hebben, omdat dat mijn passie is, en als ik dit voor mijn portfolio wil gebruiken dan heb ik ook al gelijk resultaten die ik kan laten zien voor als ik iets met tekenen in het werk veld wil doen.
