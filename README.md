@@ -12,7 +12,7 @@ In de vorige les kregen we als uitdaging om een transitie toe te voegen. Ik heb 
 
 _Dit is het resultaat van de transitie. De video is een beetje choppy vergeleken met het live beeld, maar het idee is er. transitie's die ik gedaan heb (rotation, letter spacing, en scale)_
 
-![alt text](./fotos_videos/Transition_Lettertype_CMYK_MIST_01.gif)
+![alt text](fotos_videos/Transition_Lettertype_CMYK_MIST_01.gif)
 
 <!-- Ik heb een transitie gemaakt van beide lettertype die ik heb nagemaakt.
 Voor de CMYK heb ik gekozen voor een simpele rotatie, en een scale vergroting.
@@ -49,10 +49,10 @@ Ik wilde ook de letters van elkaar halen (letter-spacing 2em). Ik heb gekeken of
 Hier gingen we elkaars werk beoordelen. We keken naar welke we het best, middelmatig, en minst goed vonden.
 Ze hadden verschillende meningen over welke het best, en minst was, maar ik vond de feedback als nog fijn. Ik weet nu beter wat ik kan toepassen voor Lo,Mi,Hi-Fi schetsen, en waar ik rekening mee moet houden als ik een verhaal/schets duidelijk wil overbrengen.
 
-![alt text](<./fotos_videos/Ar storyboard beoordeling.jpeg>)
-![alt text](./fotos_videos/Laadpagina_beoordeling.jpeg)
-![alt text](<./fotos_videos/Zwaartekracht bal beoordeling.jpeg>)
-![alt text](<./fotos_videos/Zwaartekracht room storyboard beoordeling.jpeg>)
+![alt text](<fotos_videos/Ar storyboard beoordeling.jpeg>)
+![alt text](fotos_videos/Laadpagina_beoordeling.jpeg)
+![alt text](<fotos_videos/Zwaartekracht bal beoordeling.jpeg>)
+![alt text](<fotos_videos/Zwaartekracht room storyboard beoordeling.jpeg>)
 
 <!-- #### Mijn feedback die ik heb gekregen van Pasha, Palmedie, en Medea:
 
@@ -81,11 +81,11 @@ We hebben schets lessen gekregen, en uiteindelijk moesten we daar een mi-fi sche
 
 _Ik had hier een Mi-Fi schets gemaakt, van youtube. Ik maakte per ongeluk een fout, en heb toen met een groene post it me fout weg gehaald. Ik merk hieraan dat ik al wat creatiever word in oplossingen vinden._
 
-![alt text](<./fotos_videos/Schets 4 Mi-Fi.jpeg>)
+![alt text](<fotos_videos/Schets 4 Mi-Fi.jpeg>)
 
 _Ik had gekozen om een popup na te schetsen, maar ik vond het toch nog wel lastig om visueel uit te tekenen_
 
-![alt text](<./fotos_videos/Schets 5 Animatie .jpeg>)
+![alt text](<fotos_videos/Schets 5 Animatie .jpeg>)
 
 <!-- **1ste oefening**
 
@@ -130,11 +130,11 @@ Ik was gaan werken aan de vorige opdracht om het lettertype kloppend te maken (h
 
 _copilot gevraagd_
 
-![alt text](<./fotos_videos/Oefening 3_MYST_CopilotVerbetering.png>)
+![alt text](<fotos_videos/Oefening 3_MYST_CopilotVerbetering.png>)
 
 _Uiteindelijk resultaat_
 
-![alt text](<./fotos_videos/Oefening 3_MYST_UiteindelijkResultaat_04emGrootter.png>)
+![alt text](<fotos_videos/Oefening 3_MYST_UiteindelijkResultaat_04emGrootter.png>)
 
 <!-- Ik ben verder gaan werken aan de vorige opdracht (lettertype fonts)
 Ik heb toen de 2e lettertype MYST geprobeerd na te maken.
@@ -166,7 +166,7 @@ Ik heb als laatst de groote van beide lettertype vergroot naar 4rem om ze nog be
 
 Ik heb als voorbereiding voor de volgende les alvast wat schetsen gemaakt voor wok to walk. Ik heb geprobeerd het zo kort mogelijk te houden, zodat mensen niet te veel hoeven te scrollen, en het menu gewoon kunnen scannen.
 
-![alt text](./fotos_videos/Schets_03.jpeg)
+![alt text](fotos_videos/Schets_03.jpeg)
 
 <!-- **Moodboard**
 
@@ -200,7 +200,7 @@ We hebben hiervoor ook uitleg gekregen over de code. Ik vond dat wel fijn, omdat
 (button, summary cursor: pointer)
 Ik wil hier graag nieuwe code kunnen leren, zodat ik mijn uiteindelijke digital garden kan verbeteren ten opzichten van mijn vorige projecten. Na de les had ik ook al veel meer kennis dan daarvoor.
 
-![alt text](./fotos_videos/OefeningCSSLes1.png)
+![alt text](fotos_videos/OefeningCSSLes1.png)
 
  <!-- ![alt text](OefeningCSSLes1_InfoInvullen02.png) -->
 
@@ -227,13 +227,13 @@ Het is uiteindelijk gelukt. Ik kwam er achter (door het op te zoeken) dat de 0.1
 
 _Dit was voordat ik realiseerde waar mijn fout zat. (te veel blur, verkeerde volgorde, en onjuiste posities)_
 
-![alt text](<./fotos_videos/Oefening 3_CMYK_FoutCode_01.png>)
+![alt text](<fotos_videos/Oefening 3_CMYK_FoutCode_01.png>)
 
 **After:**
 
 _Dit is toen ik wist wat ik aan het doen was, en hoe ik mijn fout kon oplossen. Ik heb ook gelijk de zelfde achtergrond kleur gevonden._
 
-![alt text](<./fotos_videos/Oefening 3_CMYK_VerbeterdeCode.png>)
+![alt text](<fotos_videos/Oefening 3_CMYK_VerbeterdeCode.png>)
 
 <!-- Ik wilde ook nog de MYST font proberen, omdat ik dacht dat die wat makkelijker zou zijn.
 Het is me tot nu toe niet helemaal gelukt, maar ik denk dat als ik verder blijf zoeken, ik er uiteindelijk wel uit kom.
@@ -250,7 +250,7 @@ _Het lettertype komt nog niet helemaal overeen met de afbeelding die ik wil na m
 
 We hebben in de les basis oefeningen gedaan. Ik weet hierdoor al een beetje hoe ik fonts kan aanpassen, en hoe ik een basis html pagina kan maken. Dit was wel fijn, omdat ik weer even kon oefenen wat ik in het eerste jaar heb geleerd, maar dat even was weg gevallen.
 
-![alt text](<./fotos_videos/Vscode oefening.png>)
+![alt text](<fotos_videos/Vscode oefening.png>)
 
 <!-- Ik heb voor de volgende les al een basis gemaakt voor mijn digital garden.
 Ik heb ervoor gekozen om het over tekenen te hebben, omdat dat mijn passie is, en als ik dit voor mijn portfolio wil gebruiken dan heb ik ook al gelijk resultaten die ik kan laten zien voor als ik iets met tekenen in het werk veld wil doen.
