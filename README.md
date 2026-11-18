@@ -16,7 +16,8 @@ In de vorige les kregen we als uitdaging om een transitie toe te voegen. Ik heb 
 
 _Dit is het resultaat van de transitie. De video is een beetje choppy vergeleken met het live beeld, maar het idee is er. transitie's die ik gedaan heb (rotation, letter spacing, en scale)_
 
-![alt text](fotos_videos/Transition_Lettertype_CMYK_MIST_01.gif)
+![alt text](fotos/Transition_Lettertype_CMYK_MIST_01.gif)
+![alt text](fotos/Transition_Lettertype_CMYK_MIST_01.gif)
 
 ## Vr-13-11-2026
 
