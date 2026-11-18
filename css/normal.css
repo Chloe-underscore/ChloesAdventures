@@ -15,6 +15,12 @@
 
 html {
   color-scheme: light dark;
+  --tekstkleur: light-dark(hotpink, red);
+  --kopkleur: light-dark(skyblue, blueviolet);
+  --achtergrond: light-dark(
+    rgba(247, 252, 213, 0.961),
+    rgba(169, 48, 48, 0.518)
+  );
 }
 
 /**************************
@@ -33,6 +39,8 @@ img {
 
 body {
   font-family: "Comic Relief", system-ui;
+  background-color: var(--achtergrond);
+  color: var(--tekstkleur);
 }
 
 /**************************
