@@ -2,11 +2,41 @@
 
 ## Wo-18-11-2026
 
+Ik heb in de les geleerd over gradients, en snap nu beter welke code ik daarvoor moet gebruiken.
+Ik wist al van custom properties, maar nu weet ik ook over verschillende variante (linear, radial, conic)
+
+![alt text](fotos/gradients_oefening.png)
+
 ## Di-17-11-2026
+
+Ik heb de oefening voor ligh_dark mode gedaan. (Ik was hiervoor aanwezig in de les om het te doen).
+Ik heb vooral geleerd over custom properties, en has [value= ] :checked code.
+
+_LightMode_
+![alt text](fotos/light_mode.png)
+
+_DarkMode_
+![alt text](fotos/dark_mode.png)
 
 ## Ma-16-11-2026
 
+### Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.
+
+Een digital garden is het tegen overgestelde van een web blog. Een digital garden heeft geen duidelijk begin, of eind. Je kan overal naar toe, en overal beginnen, of eindigen. Je bent nog aan het leren, en groeit met de ervaring die je ook laat zien (net zoals een bloem).
+
+### Leg uit wat een website 'webby' maakt en welke websites jou het meeste inspireren.
+
+Het moet bepaalde functies hebben (hover, screen size adjust, eventueel light, en dark modus)
+Het moet toegankelijk zijn (hierarchie, contrast TAB functie).
+Ik vond https://tamanotchi.world/ het meest inspirerend. Het had een leuke, en persoonlijke stijl.
+
+### Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.)
+
+Ik wil graag iets doen met tekenen, omdat ik dat zelf leuk vind. Ik denk dat het ook leuk is als ik een persoonlijke webpagina ook echt persoonlijk maak. Dit is ook iets dat ik uit mezelf zou doen, en niet omdat het moet voor een opdracht.
+
 ## Za-14-11-2026
+
+Ik ben verder gaan werken aan de pagina in codepen.
 
 ### Transitie lettertype
 
