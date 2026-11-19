@@ -2,6 +2,21 @@
 
 ## Wo-18-11-2026
 
+### Leg uit waar het Visual Research in 3 stappen naartoe werkt
+
+Het helpt je een idee te bedenken d.m.v visualisatie, en dat in 3 stappen proberen uit te werken.
+
+### Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz).
+
+Mijn garden gaat over tekenen, en gamen. Ik wil dit doen d.m.v beeld, tekst, en animatie.
+
+### Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.
+
+Ik wil kijken hoe ik een desktop kan maken met light en dark mode, en daarin dingen te verstoppen.
+Ik wil ook proberen om een cusomized cursuor te maken.
+
+### Gradients
+
 Ik heb in de les geleerd over gradients, en snap nu beter welke code ik daarvoor moet gebruiken.
 Ik wist al van custom properties, maar nu weet ik ook over verschillende variante (linear, radial, conic)
 
