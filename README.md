@@ -1,5 +1,14 @@
 # Learning log
 
+## Vr-20-11-2026
+
+### Feedback
+
+Ik heb feedback gekregen van mijn werk dat ik tot nu toe heb gedaan.
+Ze raden aan om eerst te beginnen met de basis van html, en gewoon te beginnen met iconen.
+Ik kreeg ook als feedback dat het maken van een game misschien niet gaat lukken.
+Ik kan me het best focussen op de basis, en ik kan ook alvast wat tekeningen gaan maken voor de website.
+
 ## Wo-18-11-2026
 
 ### Leg uit waar het Visual Research in 3 stappen naartoe werkt
