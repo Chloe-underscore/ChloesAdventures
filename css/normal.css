@@ -16,11 +16,31 @@
 html {
   color-scheme: light dark;
   --tekstkleur: light-dark(hotpink, red);
-  --kopkleur: light-dark(skyblue, blueviolet);
+  --kopkleur: light-dark(skyblue, blue);
   --achtergrond: light-dark(
-    rgba(247, 252, 213, 0.961),
-    rgba(169, 48, 48, 0.518)
+    /* rgba(247, 252, 213, 0.961),
+    rgba(118, 0, 222, 0.518) */
   );
+}
+html:has([value="light"]:checked) {
+  color-scheme: light;
+  background-image: url(../fotos/portret_schets_child_oefening_lineart_collour_background_19-9-2025.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* background-position: center; */
+  article#gamen {
+    display: none;
+  }
+}
+html:has([value="dark"]:checked) {
+  color-scheme: dark;
+  background-image: url(../fotos/Tanya_OC_BackPose_start_18-06-2026_End21-06-2026_20jr.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* background-position: center; */
+  article#tekenen {
+    display: none;
+  }
 }
 
 /**************************
@@ -62,6 +82,19 @@ footer {
 **************************/
 
 main {
+  display: grid;
+}
+#tekenen {
+  color-scheme:;
+}
+
+h1 {
+  color: var(--kopkleur);
+}
+
+a {
+  color: var(--tekstkleur);
+  text-decoration: none;
 }
 
 /**************************
