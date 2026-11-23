@@ -27,8 +27,8 @@ html:has([value="light"]:checked) {
   background-image: url(../fotos/portret_schets_child_oefening_lineart_collour_background_19-9-2025.png);
   background-size: cover;
   background-repeat: no-repeat;
-  /* background-position: center; */
-  article#gamen {
+  article#gamen,
+  #gamen {
     display: none;
   }
 }
@@ -37,8 +37,10 @@ html:has([value="dark"]:checked) {
   background-image: url(../fotos/Tanya_OC_BackPose_start_18-06-2026_End21-06-2026_20jr.png);
   background-size: cover;
   background-repeat: no-repeat;
-  /* background-position: center; */
   article#tekenen {
+    display: none;
+  }
+  #tekenen {
     display: none;
   }
 }
@@ -90,6 +92,9 @@ main {
 
 h1 {
   color: var(--kopkleur);
+}
+li { 
+  t
 }
 
 a {
