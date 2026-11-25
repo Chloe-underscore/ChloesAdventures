@@ -1,5 +1,23 @@
 # Learning log
 
+## Wo-25-11-2026
+
+## Di-24-11-2026
+
+Ik heb aan de plaatjes gewerkt
+
+## ma-23-11-2026
+
+## Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
+
+## Vertel welke volgende stap je neemt om je website responsive te maken.
+
+## Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?
+
+## Za/zo-21/22-11-2026
+
+Artikelen gelezen, en video's bekeken.
+
 ## Vr-20-11-2026
 
 ### Feedback

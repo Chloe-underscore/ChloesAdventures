@@ -56,7 +56,19 @@ html:has([value="dark"]:checked) {
 }
 
 img {
+  display: block;
   max-width: 100%;
+  height: auto;
+  aspect-ratio: 1/1;
+  object-fit: contain;
+  object-position: center;
+  transition: 0.5s;
+  object-position: bottom right;
+}
+
+img:hover {
+    object-position: top left;
+
 }
 
 body {
