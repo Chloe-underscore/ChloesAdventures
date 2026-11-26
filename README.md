@@ -6,6 +6,8 @@
 
 Ik ben verder gaan werken aan mijn digital garden. Ik heb de switch gemaakt voor dark en light mode met javascript. Ik heb deze website als voorbeeld gebruikt, maar ik wilde mijn eige plaatjes gebruiken, dus heb ik uiteindelijk hva ai chat gebruikt om me onderweg te helpen. Het is me uiteindelijk gelukt.
 
+[text](<fotos/Chat Export — Donkere en lichte modus toevoegen — 26-11-2026, 21_53_31.pdf>)
+
 ### Het probleem
 
 - Had niet het juiste javascript mapje aangegeven. (waren 2 dezelfde met de zelfde naam, dus ik heb er 1 verandert, zodat het te vinden was).
