@@ -1,11 +1,13 @@
 const themeToggle = document.querySelector("#themeToggle");
 const themeIcon = document.querySelector("#themeIcon");
+const themeRadios = document.querySelector('input[name="theme"]');
 
 function setTheme(theme) {
-  const isDark = theme === "dark";
+  const mode = theme === "dark" ? "dark" : "light";
+  const isDark = mode === "dark";
 
-  document.documentElement.dataset.theme = isDark ? "dark" : "light";
-  localStorage.setItem("theme", isDark ? "dark" : "light");
+  document.documentElement.dataset.theme = mode;
+  localStorage.setItem("theme", mode);
 
   themeIcon.src = isDark
     ? "./symbols/sun_toggle.png"
@@ -15,12 +17,24 @@ function setTheme(theme) {
     "aria-label",
     isDark ? "Schakel naar lichte modus" : "Schakel naar donkere modus",
   );
+
+  themeRadios.forEach((radio) => {
+    radio.checked = radio.value === mode;
+  });
 }
 
-const savedTheme = localStorage.getItem("theme");
-setTheme(savedTheme === "dark" ? "dark" : "light");
+setTheme(localStorage.getItem("theme") === "dark" ? "dark" : "light");
+
+// const savedTheme = localStorage.getItem("theme");
+// setTheme(savedTheme === "dark" ? "dark" : "light");
 
 themeToggle.addEventListener("click", () => {
   const currentTheme = document.documentElement.dataset.theme;
   setTheme(currentTheme === "dark" ? "light" : "dark");
+});
+
+themeRadios.forEach((radio) => {
+  radio.addEventListener("change", () => {
+    setTheme(radio.Value);
+  });
 });

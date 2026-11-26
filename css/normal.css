@@ -14,14 +14,30 @@
 **************************/
 
 html {
-  color-scheme: light dark;
-  --tekstkleur: light-dark(yellow, red);
-  --kopkleur: light-dark(yellow, blue);
   box-sizing: border-box;
-  --achtergrond: light-dark(
-    /* rgba(247, 252, 213, 0.961),
-    rgba(118, 0, 222, 0.518) */
-  );
+  color-scheme: light;
+  --tekstkleur: yellow;
+  --kopkleur: yellow;
+  --achtergrond: rgba(247, 252, 213, 0.961);
+  background-image: url(../fotos/zelfportret_25_11_2026_21jr.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+html[data-theme="dark"] {
+  color-scheme: dark;
+  --tekstkleur: #fff;
+  --kopkleur: #fff;
+  --achtergrond: rgba(118, 0, 222, 0.52);
+  background-image: url(../fotos/Tanya_OC_BackPose_start_18-06-2026_End21-06-2026_20jr.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+html[data-theme="light"] #gamen {
+  display: none;
+}
+
+html[data-theme="dark"] #tekenen {
+  display: none;
 }
 /* html:has([value="light"]:checked) {
   color-scheme: light;
@@ -110,9 +126,6 @@ footer {
 
 main {
   /* display: grid; */
-}
-#tekenen {
-  color-scheme:;
 }
 
 h1 {
