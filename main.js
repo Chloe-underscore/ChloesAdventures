@@ -1,6 +1,6 @@
 const themeToggle = document.querySelector("#themeToggle");
 const themeIcon = document.querySelector("#themeIcon");
-const themeRadios = document.querySelector('input[name="theme"]');
+const themeRadios = document.querySelectorAll('input[name="theme"]');
 
 function setTheme(theme) {
   const mode = theme === "dark" ? "dark" : "light";
@@ -35,6 +35,6 @@ themeToggle.addEventListener("click", () => {
 
 themeRadios.forEach((radio) => {
   radio.addEventListener("change", () => {
-    setTheme(radio.Value);
+    setTheme(radio.value);
   });
 });

@@ -18,7 +18,7 @@ html {
   color-scheme: light;
   --tekstkleur: yellow;
   --kopkleur: yellow;
-  --achtergrond: rgba(247, 252, 213, 0.961);
+  /* --achtergrond: rgba(247, 252, 213, 0.961); */
   background-image: url(../fotos/zelfportret_25_11_2026_21jr.png);
   background-size: cover;
   background-repeat: no-repeat;
@@ -27,7 +27,7 @@ html[data-theme="dark"] {
   color-scheme: dark;
   --tekstkleur: #fff;
   --kopkleur: #fff;
-  --achtergrond: rgba(118, 0, 222, 0.52);
+  /* --achtergrond: rgba(118, 0, 222, 0.52); */
   background-image: url(../fotos/Tanya_OC_BackPose_start_18-06-2026_End21-06-2026_20jr.png);
   background-size: contain;
   background-repeat: no-repeat;
