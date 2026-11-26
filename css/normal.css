@@ -15,16 +15,17 @@
 
 html {
   color-scheme: light dark;
-  --tekstkleur: light-dark(hotpink, red);
-  --kopkleur: light-dark(skyblue, blue);
+  --tekstkleur: light-dark(yellow, red);
+  --kopkleur: light-dark(yellow, blue);
+  box-sizing: border-box;
   --achtergrond: light-dark(
     /* rgba(247, 252, 213, 0.961),
     rgba(118, 0, 222, 0.518) */
   );
 }
-html:has([value="light"]:checked) {
+/* html:has([value="light"]:checked) {
   color-scheme: light;
-  background-image: url(../fotos/portret_schets_child_oefening_lineart_collour_background_19-9-2025.png);
+  background-image: url(../fotos/zelfportret_25_11_2026_21jr.png);
   background-size: cover;
   background-repeat: no-repeat;
   article#gamen,
@@ -35,15 +36,24 @@ html:has([value="light"]:checked) {
 html:has([value="dark"]:checked) {
   color-scheme: dark;
   background-image: url(../fotos/Tanya_OC_BackPose_start_18-06-2026_End21-06-2026_20jr.png);
-  background-size: cover;
+  background-size: contain;
   background-repeat: no-repeat;
   article#tekenen {
     display: none;
-  }
-  #tekenen {
-    display: none;
-  }
+  } */
+:root {
+  --background: white;
+  --text: #222;
 }
+
+:root[data-theme="dark"] {
+  --background: #1b1b1b;
+  --text: white;
+}
+
+/* #tekenen {
+  display: none;
+} */
 
 /**************************
 * MARK: Algemene Styling
@@ -53,9 +63,12 @@ html:has([value="dark"]:checked) {
 *::after,
 *::before {
   box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
 }
 
-img {
+/* img {
   display: block;
   max-width: 100%;
   height: auto;
@@ -64,12 +77,12 @@ img {
   object-position: center;
   transition: 0.5s;
   object-position: bottom right;
-}
+} */
 
-img:hover {
+/* img:hover {
     object-position: top left;
 
-}
+} */
 
 body {
   font-family: "Comic Relief", system-ui;
@@ -96,7 +109,7 @@ footer {
 **************************/
 
 main {
-  display: grid;
+  /* display: grid; */
 }
 #tekenen {
   color-scheme:;
@@ -105,15 +118,70 @@ main {
 h1 {
   color: var(--kopkleur);
 }
-li { 
-  t
+li {
+  margin: 2em;
+  text-decoration: dashed;
 }
 
-a{
+a {
   color: var(--tekstkleur);
   text-decoration: none;
+  /* margin: 2em; */
 }
 
 /**************************
-* MARK: Section ...
+* MARK: Section teken pagina
 **************************/
+#container {
+  width: 60%;
+  margin: 2rem auto;
+  /* background-color: aliceblue; */
+}
+#gallery {
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  grid-template-rows: repeat(8, 15vw);
+  grid-gap: 1em;
+}
+.gallery__img {
+  width: 100%;
+  height: 200%;
+  object-fit: contain;
+  display: block;
+}
+.gallery__item--1 {
+  grid-column-start: 1;
+  grid-column-end: 5;
+  grid-row-start: 1;
+  grid-row-end: 2;
+}
+.gallery__item--2 {
+  grid-column-start: 5;
+  grid-column-end: 9;
+  grid-row-start: 1;
+  grid-row-end: 2;
+}
+.gallery__item--3 {
+  grid-column-start: 1;
+  grid-column-end: 9;
+  grid-row-start: 3;
+  grid-row-end: 4;
+}
+.gallery__item--4 {
+  grid-column-start: 1;
+  grid-column-end: 5;
+  grid-row-start: 7;
+  grid-row-end: 8;
+}
+.gallery__item--5 {
+  grid-column-start: -1;
+  grid-column-end: -9;
+  grid-row-start: 6;
+  grid-row-end: 5;
+}
+.gallery__item--6 {
+  grid-column-start: 5;
+  grid-column-end: 9;
+  grid-row-start: -3;
+  grid-row-end: -2;
+}
