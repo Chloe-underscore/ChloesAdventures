@@ -1,18 +1,95 @@
 # Learning log
 
+## do-26-11-2026'
+
+### Tot nu toe
+
+Ik ben verder gaan werken aan mijn digital garden. Ik heb de switch gemaakt voor dark en light mode met javascript. Ik heb deze website als voorbeeld gebruikt, maar ik wilde mijn eige plaatjes gebruiken, dus heb ik uiteindelijk hva ai chat gebruikt om me onderweg te helpen. Het is me uiteindelijk gelukt.
+
+### Het probleem
+
+- Had niet het juiste javascript mapje aangegeven. (waren 2 dezelfde met de zelfde naam, dus ik heb er 1 verandert, zodat het te vinden was).
+- Licht modus was nog te zien op de dark mode als ik op een link klikte. (Ik zag dat ik html[data-theme= dark] bij 1 had, maar geen licht fucntie voor de ander. Dit heb ik toegevoegd, en toen werkte het wel).
+
+![alt text](<zelf gedaan.png>)
+
+### De toekomst
+
+Ik ben van plan om alles mooi te maken door dingen toe te voegen.
+
+- knoppen
+- afbeeldingen
+- kleur
+- grootes
+- plaatsing
+
+Ik wil er iniedergeval voor zorgen dat de gallerij werkt, en ik wil toch mezelf uitdagen om de game te proberen te maken, omdat al mijn andere ideeën te moeilijk zijn (tot nu toe).
+
+![alt text](fotos/website_darkmodus.png)
+
+![alt text](fotos/website_lightmodus.png)
+
 ## Wo-25-11-2026
+
+### Opdracht
+
+We hebben in de les een opdracht gedaan waarbij we voor elkaar tekeningen hebben gemaakt om nog andere ideeën te krijgen.
+Batuhan, en Luke hebben voor mij tekeningen gemaakt waardoor ik weer nieuwe inspiratie heb gekregen.
+
+_Batuhan's tekening = een foto album idee voor mijn gallerij_
+
+![alt text](fotos/batuhan_tekening.jpeg)
+
+_Luke's tekening is een eventueele game, en een andere manier van een desktop in 3e persoons view_
+
+![alt text](fotos/luke_tekening.jpeg)
+
+### CheckOut
+
+Ik ben langzaam verder gaan werken aan mijn digital garden, maar ik kwam niet super ver, omdat ik me nog ziek voelden.
+We hebben geleerd over gestald principes, zoals hierarchie, balans, en symetrie.
+We hebben ook gezien hoe we grids goed kunnen gebruiken om structuur te bieden (fijne leesbaarheid), maar ook vrijheid (je kan bepalen wat mensen eerst en laatst zien).
+Ik wil zelf ook gaan kijken of ik grids op zo een manier kan gebruiken. Ik wil ook kijken of ik mijn pagina goed kan structueren.
 
 ## Di-24-11-2026
 
-Ik heb aan de plaatjes gewerkt
+Ik heb aan de plaatjes gewerkt, en ik heb ze geprobeerd te animeren. De lange gaan van links naar rechts, en de kleinere gaan van onder naar boven. De grijse foto ben ik gaan hoveren met me muis, en die ging ook omhoog.
+
+![alt text](fotos/plaatjes_animatiemoment.png)
 
 ## ma-23-11-2026
 
-## Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
+### Bi-weekly Geek 1
 
-## Vertel welke volgende stap je neemt om je website responsive te maken.
+We hebben in de les een opdracht gekregen waarbij we vragen over internet moesten beantwoorden, en onderzoek's vragen voor moesten bedenken.
+Ik heb dit samen gedaan met Plamedie, en Pascha gedaan.
 
-## Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?
+_Vragen_
+
+![alt text](fotos/ma_onderzoek.jpeg)
+
+_Onderzoek_
+
+![alt text](fotos/ma_vragen.jpeg)
+
+### Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
+
+Als je geen hierarchie toepast, of contrast.
+Je kan duidelijk maken wat je wilt waar mensen eerst op focusen, en je kan ervoor zorgen dat het lees baar is. Dit kan je doen met groote, positie, en kleur.
+Je kan ook nog witruimte laten, zodat je website niet te druk, of onoverzichtelijk word.
+
+### Vertel welke volgende stap je neemt om je website responsive te maken.
+
+Je kan @media gebruiken om (width) te bepalen. Hierdoor schaald je website mee als het beeld groter of kleiner word.
+Je kan ook hover opties toevoegen, zodat de gebruiker feedback terug krijgt als ze op een knop klikken.
+
+### Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?
+
+Ik wilde een desktop na creeëren, zodat je het gevoel heb dat je nog op je eige desktop zit. Ik wilde window popups creëren, maar dit bleek te lastig te zijn.
+Wat ik wel kon doen is:
+Dark en light modus toevoegen. Ik heb dit eerst gedaan door html:has([value="light"]:checked) toe te voegen en dan display: none; voor een specifieke id. Dit bleek maar tijdelijk te zijn, dus ga ik dit proberen met javascript.
+Ik wil dat mensen mijn tekeningen kunnen bekijken via een soort gallery. Ik ben van plan om een grid hiervoor te gebruiken, zodat ze de plaatjes kunnen bekijken.
+Ik wil ook kijken of ik een mini-game kan maken in darkmode, maar hiervoor heb ik ook javascript nodig, dus ik ga kijken of dit me gaat lukken.
 
 ## Za/zo-21/22-11-2026
 
