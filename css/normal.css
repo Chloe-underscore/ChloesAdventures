@@ -13,7 +13,7 @@
 * MARK: Custom properties
 **************************/
 
-html {
+html[data-theme="light"] {
   box-sizing: border-box;
   color-scheme: light;
   --tekstkleur: yellow;
@@ -29,7 +29,7 @@ html[data-theme="dark"] {
   --kopkleur: #fff;
   /* --achtergrond: rgba(118, 0, 222, 0.52); */
   background-image: url(../fotos/Tanya_OC_BackPose_start_18-06-2026_End21-06-2026_20jr.png);
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
 }
 html[data-theme="light"] #gamen {
@@ -38,6 +38,15 @@ html[data-theme="light"] #gamen {
 
 html[data-theme="dark"] #tekenen {
   display: none;
+}
+
+#game {
+  color-scheme: dark;
+  --tekstkleur: #fff;
+  --kopkleur: #fff;
+  background-image: url(../fotos/Tanya_OC_BackPose_start_18-06-2026_End21-06-2026_20jr.png);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 /* html:has([value="light"]:checked) {
   color-scheme: light;
@@ -82,6 +91,9 @@ html:has([value="dark"]:checked) {
   margin: 0;
   padding: 0;
   box-sizing: inherit;
+}
+
+img {
 }
 
 /* img {

@@ -1,3 +1,4 @@
+console.log("main.js geladen");
 const themeToggle = document.querySelector("#themeToggle");
 const themeIcon = document.querySelector("#themeIcon");
 const themeRadios = document.querySelectorAll('input[name="theme"]');
@@ -29,6 +30,7 @@ setTheme(localStorage.getItem("theme") === "dark" ? "dark" : "light");
 // setTheme(savedTheme === "dark" ? "dark" : "light");
 
 themeToggle.addEventListener("click", () => {
+  console.log("klik geregristreerd");
   const currentTheme = document.documentElement.dataset.theme;
   setTheme(currentTheme === "dark" ? "light" : "dark");
 });
