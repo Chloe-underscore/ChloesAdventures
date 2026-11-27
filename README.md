@@ -62,6 +62,7 @@ Ik wil zelf ook gaan kijken of ik grids op zo een manier kan gebruiken. Ik wil o
 Ik heb een grid toegevoegd, zodat ik mijn tekeningen als gallerij kon laten zien. Dit is de website die ik daarvoor had gebruikt: https://www.freecodecamp.org/news/how-to-create-an-image-gallery-with-css-grid-e0f0fd666a5c/
 
 Dit is hoe het er bij mij uitziet.
+![alt text](fotos/grid_start_gif.gif)
 
 Ik heb aan de plaatjes gewerkt, en ik heb ze geprobeerd te animeren. De lange gaan van links naar rechts, en de kleinere gaan van onder naar boven. De grijse foto ben ik gaan hoveren met me muis, en die ging ook omhoog.
 
